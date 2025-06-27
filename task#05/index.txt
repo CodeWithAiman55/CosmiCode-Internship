@@ -1,0 +1,5 @@
+http://localhost:8080/api/v1/student/getall
+http://localhost:8080/api/v1/student/1
+http://localhost:8080/api/v1/student
+http://localhost:8080/api/v1/student/1
+http://localhost:8080/api/v1/student/1
